@@ -4,6 +4,6 @@
 int main(void) {
 	printf("Hello World");
 	printf("Edit check");
-	printf("Edit check 2")
+	printf("Edit check 2");
 	return 0;
 }
